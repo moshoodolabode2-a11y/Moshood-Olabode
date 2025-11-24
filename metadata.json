@@ -1,0 +1,7 @@
+{
+  "name": "Copy of TubeGenius AI Studio",
+  "description": "A comprehensive AI-powered automation suite for YouTube creators. Features viral title generation, SEO optimization, thumbnail creation, voice narration, and video generation powered by Google Gemini and Veo models.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
